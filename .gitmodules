@@ -1,0 +1,4 @@
+[submodule "rma_xmarts"]
+	path = rma_xmarts
+	url = git@github.com:viernes/rma_xmarts.git
+	branch = master
